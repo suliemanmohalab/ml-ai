@@ -30,7 +30,7 @@ All results below are from a single run with seed 0.
 
 ## Results
 
-![Probe accuracy by layer](probe_accuracy_by_layer.png)
+![Probe accuracy by layer](probe.png)
 
 | Layer | Same data (SST-2) | Shifted data (Rotten Tomatoes) | Shuffled-label control |
 |------:|------------------:|-------------------------------:|-----------------------:|
